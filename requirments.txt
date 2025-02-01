@@ -1,0 +1,6 @@
+langchain_groq
+streamlit
+langchain
+PyPDF2
+nltk
+tensorflow
